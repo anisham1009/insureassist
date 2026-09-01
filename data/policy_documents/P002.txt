@@ -1,0 +1,36 @@
+Policy Name: HealthSecure Plus
+Policy ID: P002
+Policy Type: Health Insurance
+
+Coverage:
+This policy provides health insurance coverage up to ₹10 lakh.
+
+Eligibility:
+Customers between 18 and 65 years of age are eligible subject to policy terms.
+
+Annual Premium:
+₹12,500.
+
+Deductible:
+₹5,000.
+
+Waiting Period:
+The initial waiting period is 30 days.
+
+Pre-existing Diseases:
+Pre-existing diseases are covered after a waiting period of 3 years.
+
+Maternity:
+Maternity coverage is available after the applicable waiting period.
+
+Hospitalization:
+Hospitalization expenses are covered according to policy terms.
+
+Room Rent:
+There is no room-rent limit subject to policy conditions.
+
+Claim Process:
+Customers can submit claims through the online claim process.
+
+Exclusions:
+Cosmetic procedures are excluded unless covered under applicable policy conditions.

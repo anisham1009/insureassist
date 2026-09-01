@@ -1,0 +1,36 @@
+Policy Name: HealthSecure Basic
+Policy ID: P001
+Policy Type: Health Insurance
+
+Coverage:
+This policy provides health insurance coverage up to ₹5 lakh.
+
+Eligibility:
+Customers between 18 and 60 years of age are eligible subject to policy terms.
+
+Annual Premium:
+₹8,500.
+
+Deductible:
+₹10,000.
+
+Waiting Period:
+The initial waiting period is 30 days.
+
+Pre-existing Diseases:
+Pre-existing diseases are covered after a waiting period of 4 years.
+
+Maternity:
+Maternity coverage is not included.
+
+Hospitalization:
+Hospitalization expenses are covered according to policy terms.
+
+Room Rent:
+Single AC room is covered subject to applicable limits.
+
+Claim Process:
+Customers can submit claims through the online claim process.
+
+Exclusions:
+Non-medical expenses are excluded.

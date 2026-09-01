@@ -1,0 +1,11 @@
+policy_id,policy_name,policy_type,age_min,age_max,coverage_amount,annual_premium,deductible,waiting_period,maternity,pre_existing_disease,hospitalization,room_rent,network_hospitals,claim_process,exclusions
+P001,HealthSecure Basic,Health,18,60,500000,8500,10000,30 days,No,After 4 years,Yes,Single AC Room,5000+,Online,Non-medical expenses
+P002,HealthSecure Plus,Health,18,65,1000000,12500,5000,30 days,Yes,After 3 years,Yes,No Limit,8000+,Online,Cosmetic procedures
+P003,HealthShield Premium,Health,18,70,1500000,16800,0,30 days,Yes,After 2 years,Yes,No Limit,10000+,Online,Non-medical expenses
+P004,Family Health Protect,Health,18,65,2000000,21500,5000,30 days,Yes,After 3 years,Yes,No Limit,12000+,Online,Cosmetic procedures
+P005,Senior Care Plus,Health,60,80,1000000,28000,10000,60 days,No,After 4 years,Yes,Single AC Room,6000+,Online,Specified treatments
+P006,Young Adult Care,Health,18,35,750000,6500,5000,30 days,No,After 3 years,Yes,Single AC Room,5000+,Online,Cosmetic procedures
+P007,Family Secure Max,Health,18,65,3000000,32000,0,30 days,Yes,After 2 years,Yes,No Limit,15000+,Online,Non-medical expenses
+P008,Budget Health Care,Health,18,55,500000,6000,15000,30 days,No,After 4 years,Yes,Shared Room,4000+,Online,Alternative treatments
+P009,Women Health Plus,Health,18,55,1000000,14000,5000,30 days,Yes,After 3 years,Yes,No Limit,8000+,Online,Specified cosmetic procedures
+P010,Comprehensive Health Max,Health,18,70,2500000,26000,0,30 days,Yes,After 2 years,Yes,No Limit,15000+,Online,Non-medical expenses

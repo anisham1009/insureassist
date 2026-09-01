@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+streamlit
+google-genai
+chromadb
+scikit-learn

@@ -1,0 +1,11 @@
+customer_id,age,gender,annual_income,occupation,city,family_size,existing_conditions,budget,coverage_required,policy_type
+C001,30,Male,800000,Software Engineer,Kochi,1,None,15000,1000000,Health
+C002,35,Female,1200000,Teacher,Kozhikode,3,None,25000,2000000,Health
+C003,45,Male,1500000,Business Owner,Bangalore,4,Diabetes,30000,2000000,Health
+C004,27,Female,600000,Software Engineer,Chennai,1,None,10000,750000,Health
+C005,62,Male,1000000,Retired,Mumbai,2,Hypertension,30000,1000000,Health
+C006,31,Female,900000,Engineer,Hyderabad,2,None,18000,1000000,Health
+C007,40,Male,1100000,Manager,Delhi,4,None,25000,2000000,Health
+C008,24,Male,500000,Designer,Pune,1,None,8000,500000,Health
+C009,52,Female,1300000,Consultant,Bangalore,2,Diabetes,28000,1500000,Health
+C010,34,Female,850000,Teacher,Kochi,2,None,16000,1000000,Health
